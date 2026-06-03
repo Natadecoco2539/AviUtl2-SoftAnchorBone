@@ -1,5 +1,6 @@
 # AviUtl2-SoftAnchorBone
 AviUtl2用の、3点アンカーで髪や服を揺らす軽量ボーン風スクリプト
+
 作成者: [なたのこ/Natadecoco_2539]
 
 ■ **概要**
@@ -19,3 +20,6 @@ SoftAnchorBoneは、AviUtl2用のスクリプトです。
 - 1点目：てっぺん
 - 2点目：揺れ始める位置
 - 3点目：先端
+
+
+<img width="953" height="765" alt="image" src="https://github.com/user-attachments/assets/e675519d-3225-46e7-8fc0-4fc133dda8de" />
