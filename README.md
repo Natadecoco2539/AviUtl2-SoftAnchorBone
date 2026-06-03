@@ -23,3 +23,9 @@ SoftAnchorBoneは、AviUtl2用のスクリプトです。
 
 
 <img width="953" height="765" alt="image" src="https://github.com/user-attachments/assets/e675519d-3225-46e7-8fc0-4fc133dda8de" />
+
+
+謝辞
+
+本スクリプトの開発にあたり、
+tim氏制作の「風揺れT」から着想を得ています。
