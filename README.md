@@ -1,0 +1,2 @@
+# AviUtl2-SoftAnchorBone
+AviUtl2用の、3点アンカーで髪や服を揺らす軽量ボーン風スクリプト
